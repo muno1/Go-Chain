@@ -1,9 +1,14 @@
+/*
+SPDX-License-Identifier: Apache-2.0
+*/
+
 package main
 
 import (
 	"log"
+
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	"github.com/hyperledger/fabric-samples/smart-contract/chaincode-go/chaincode"
+	"github.com/muno1/Go-Chain/tree/prototype/smart-contract/chaincode-go"
 )
 
 func main() {
